@@ -1,8 +1,0 @@
-[user]
-	name = abhi
-	email = sdfghjkl@gmail.com
-[init]
-	defaultBranch = main
-	defaultBrowser = main
-[core]
-	editor = notepad
